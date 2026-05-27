@@ -1,4 +1,4 @@
-![Plasmic Storefront for Medusa JS](https://github.com/pavlotsyhanok/medusa-plasmic-storefront/blob/main/medusa-plasmic-img.jpg)
+![Plasmic Storefront for Medusa JS](https://github.com/jovenxyz/medusajs-storefront/blob/main/medusa-plasmic-img.jpg)
 # Plasmic Storefront for Medusa JS
 This repository hosts a NextJS storefront designed for seamless integration with Medusa, an open-source headless e-commerce engine. It leverages Plasmic, an open-source visual builder studio for React, allowing for easy visual edits and customization of the storefront.
 
@@ -8,11 +8,6 @@ This repository hosts a NextJS storefront designed for seamless integration with
 
 🚧 **Warning:** This storefront is in its very early stages of development. Expect inconsistencies in the code and potential bugs. Currently, this project utilizes NextJS 13 App Router. Support for NextJS 14 App Router in Plasmic is in early beta. We plan to upgrade to the NextJS 14 App Router once it's generally available.
 
-## 📼 Setup Tutorial (YouTube)
-
-[![Youtube Tutorial](https://img.youtube.com/vi/XlRTJ9UEZQY/0.jpg)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
-
-**Click on the image above to watch tutorial 👆**
 
 ## Highlights
 
@@ -57,7 +52,7 @@ Follow these steps to get your development environment set up:
 Begin by cloning the repository to your local machine. Open a terminal and run the following command:
 
 ```
-   git clone https://github.com/pavlotsyhanok/medusa-plasmic-storefront.git
+   git clone https://github.com/jovenxyz/medusajs-storefront.git
 ```
 
 **Navigate to the Project Directory**:
@@ -111,7 +106,7 @@ Follow these steps to get your development environment set up:
    Begin by cloning the repository to your local machine. Open a terminal and run the following command:
 
    ```bash
-   git clone https://github.com/pavlotsyhanok/medusa-plasmic-storefront.git
+   git clone https://github.com/jovenxyz/medusajs-storefront.git
    ```
 2. **Navigate to the Project Directory**:
    Change to the project directory with:
